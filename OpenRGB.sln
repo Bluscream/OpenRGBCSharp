@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenRGB-Flicker", "OpenRGB-Flicker\OpenRGB-Flicker.csproj", "{96D4FC2C-2803-43BD-BF08-7A29CF7C862E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenRGB-Unity", "OpenRGB-Unity\OpenRGB-Unity.csproj", "{0910728B-0C2C-4AB6-88B7-2F425677F26E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96D4FC2C-2803-43BD-BF08-7A29CF7C862E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96D4FC2C-2803-43BD-BF08-7A29CF7C862E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96D4FC2C-2803-43BD-BF08-7A29CF7C862E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96D4FC2C-2803-43BD-BF08-7A29CF7C862E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0910728B-0C2C-4AB6-88B7-2F425677F26E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0910728B-0C2C-4AB6-88B7-2F425677F26E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0910728B-0C2C-4AB6-88B7-2F425677F26E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0910728B-0C2C-4AB6-88B7-2F425677F26E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A7A380D-B029-4061-9CDA-75A07B627C3F}
+	EndGlobalSection
+EndGlobal

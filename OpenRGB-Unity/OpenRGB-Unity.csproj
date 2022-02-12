@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>OpenRGBU</RootNamespace>
+    <AssemblyName>OpenRGBU</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NLog" Version="4.7.13" />
+    <PackageReference Include="OpenRGB.NET" Version="1.7.0" />
+  </ItemGroup>
+
+</Project>
